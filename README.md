@@ -122,4 +122,4 @@ Now, do you know this word? (1: yes / 2: no):
 
 ## License
 
-This tool is free and open-source. Feel free to modify it to suit your needs or contribute improvements! Good luck with your GRE preparation! 🎓
+This tool is free and open-source. Feel free to modify it to suit your needs or contribute improvements!
