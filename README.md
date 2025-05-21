@@ -105,14 +105,6 @@ Now, do you know this word? (1: yes / 2: no):
 
 ---
 
-## Tips for GRE Preparation
-
-- **Consistent Practice**: Use this tool daily to reinforce your vocabulary knowledge.
-- **Focus on Context**: Pay close attention to the examples provided, as GRE vocabulary questions often test your ability to use words in context.
-- **Review Regularly**: Words that you mark as "unknown" will reappear frequently, ensuring you focus on your weak areas.
-
----
-
 ## Notes
 
 - If you see the message **"You know all the words!"**, congratulations! You’ve mastered every word in your list.
